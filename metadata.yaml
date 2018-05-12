@@ -1,0 +1,31 @@
+_repo: The-Story-of-Baden-Powell-The-Wolf-That-Never-Sleeps-_17300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Begbie, Harold
+    alias: Begbie, Edward Harold
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '5055'
+    url: http://www.gutenberg.org/2009/agents/5055
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Harold_Begbie
+description: ''
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2005-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron, 1857-1941'
+title: 'The Story of Baden-Powell
+
+  ''The Wolf That Never Sleeps'''
+url: http://www.gutenberg.org/ebooks/17300
